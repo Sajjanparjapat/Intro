@@ -6,7 +6,7 @@
 - 👯 I’m looking to collaborate on Testing
 - 💬 Ask me about Anything
 -->
-- 🔭 I'm currently Lead Quality Analyst at Cignex Datamatics and have worked with AON, hCentive Technology, Magna InfoTech and HCL Technology.
+- 🔭 I'm currently working as Lead Quality Analyst at Cignex Datamatics and have worked with AON, hCentive Technology, Magna InfoTech and HCL Technology.
 - 🌱 I’m currently Java and Selenium Automation Testing.
 - 👩‍💻 skills: Manual Functional Testing, API Testing, 
 
