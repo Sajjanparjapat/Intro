@@ -2,15 +2,15 @@
 
 
 <!--- 🤔 I’m looking for help with ...
-- 😄 Pronouns: She/her
-- 👯 I’m looking to collaborate on Java
+- 😄 Pronouns: He/Him
+- 👯 I’m looking to collaborate on Testing
 - 💬 Ask me about Anything
 -->
-- 🔭 Incomming Software Engineer at Apple and I’m currently a software engineer at JP Morgan and a ex-software engineer Intern at walmart global tech
-- 🌱 I’m currently learning Spring Boot
-- 👩‍💻 skills: Java, Springboot, Angular, React, Kubernetes, Git, C++
+- 🔭 I'm currently Lead Quality Analyst at Cignex Datamatics and have worked with AON, hCentive Technology, Magna InfoTech and HCL Technology.
+- 🌱 I’m currently Java and Selenium Automation Testing.
+- 👩‍💻 skills: Manual Functional Testing, API Testing, 
 
-- 📫 How to reach me: [Gmail](nisthaagarwal8@gmail.com), 
-                      [LinkedIn](https://www.linkedin.com/in/nisthaagarwal/),
-                      [Leetcode](https://leetcode.com/nisthaagarwal/)
+- 📫 How to reach me: [Gmail](sajjankumarparjapat@gmail.com), 
+                      [LinkedIn](https://www.linkedin.com/in/parjapatsajjan/),
+                      [Leetcode](https://leetcode.com/sajjankumarparjapat/)
 <!--- ⚡ Fun fact: ...-->
